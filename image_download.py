@@ -13,7 +13,7 @@ tile_coverage = 'mly1_public'
 tile_layer = 'image'
 
 # Mapillary access token -- user should provide their own
-access_token = 'MLY|4826481817389593|29f5db2b7826a5845bc2ee8d2fc8e1b1'
+access_token = 'MLY|###################'
 
 # a bounding box in [east_lng,_south_lat,west_lng,north_lat] format
 west, south, east, north = [103.6920359, 1.1304753 , 104.0120359, 1.4504753]
